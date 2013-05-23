@@ -1,1 +1,1 @@
-This a Php extension for concurrent queries to mysql.
+This a Php5.2 extension for concurrent queries to mysql.
