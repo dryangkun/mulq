@@ -1,0 +1,1 @@
+This a Php extension for concurrent queries to mysql.
